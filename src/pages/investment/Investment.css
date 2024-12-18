@@ -1,0 +1,31 @@
+.investment{
+    height: 135vh;
+    position: relative;
+    width: 87%;
+  margin-left: 90px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(217 239 233 / var(--tw-bg-opacity, 1));
+  margin-top: -25px;
+}
+.investment .top-Header{
+    position: relative;
+    padding-right: 30px;
+}
+.investment .top-Header .title {
+    text-align: center;
+    position: relative;
+    top: 80px;
+    margin-bottom: 100px;
+}
+.investment .approach{
+    margin-left: 30px;
+}
+
+.investment .approach{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px; 
+    margin-bottom: 95%;
+    margin-top: 20px;
+}

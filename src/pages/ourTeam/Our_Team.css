@@ -1,0 +1,82 @@
+/* .ourTeam{
+    height: 70vh;
+}
+.ourTeam .top-Header h1{
+    margin-top: 160px;
+    text-align: center;
+}
+.ourTeam .abt-teamLeads{
+    display: flex;
+    width: 100%;
+    max-width: 1200px;
+
+} */
+.ourTeam {
+    width: 100%;
+    /* padding: 2rem 0; */
+  }
+  
+  .ourTeam .top-Header h1 {
+    margin-top: 210px;
+    text-align: center;
+    font-size: 2.5rem;
+  }
+  
+  .ourTeam .abt-teamLeads {
+    position: relative;
+    max-width: 1300px;
+    margin: 0 auto;
+  }
+  
+  .swiper {
+    padding: 20px;
+  }
+  
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #f5f5f5; */
+    border-radius: 8px;
+    /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
+  }
+  
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #000; 
+  }
+  
+  .swiper-button-next {
+    right: 20px;
+  }
+  
+  .swiper-button-prev {
+    left: 10px;
+  }
+  .custom-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .prev-btn {
+    height: 55px;
+    width: 55px;
+    left: 20px;
+    border-radius: 50px 50px;
+  }
+  
+  .next-btn {
+    right: 20px;
+    height: 55px;
+    width: 55px;
+    border-radius: 50px 50px;
+  }
+  
+  
