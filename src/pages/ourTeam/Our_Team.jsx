@@ -4,7 +4,7 @@ import { Navigation } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
 import "./Our_Team.css";
-import OurTeamComp from "../../components/ourTeamComp/ourTeamComp";
+import OurTeamComp from "../../components/ourTeamComp/OurTeamComp";
 import Profile1 from "../../assets/profile1.png";
 import Profile2 from "../../assets/profile2.png";
 import Profile3 from "../../assets/profile3.png";

@@ -1,7 +1,6 @@
 import React from 'react'
 import './OurTeamComp.css';
 import Slide from '../../assets/ourTeamSlide.png';
-import Profile1 from '../../assets/profile1.png';
 import NameSlide from '../../assets/nameRect1.png';
 function OurTeamComp({id,profile,name,position,firstPara,secondPara}) {
   return (
