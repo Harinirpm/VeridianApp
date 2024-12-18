@@ -1,0 +1,72 @@
+.ourTeamComp {
+    position: relative;
+    height: 60vh;
+    width: 100%;
+    max-width: 1300px;
+}
+.ourTeamComp .ourTeam-left-content{
+    top: 10%;
+    position:relative;
+}
+.ourTeamComp .ourTeam-left-content .ourTeamImg{
+    position: relative;
+    align-items: center;
+    top: 0%;
+}
+.ourTeamComp .ourTeam-left-content .nameSlide{
+    position: relative;
+    bottom: 120px;
+       left: 27%;
+}
+.ourTeamComp .ourTeam-left-content .profile{
+    position: relative;
+    bottom:416px;
+    left: 100px;
+}
+.ourTeamComp .employee-name{
+    position: absolute;
+    top: 84%;
+    white-space: nowrap;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    right: 54%;
+    line-height: 1.6;
+    
+}
+.ourTeamComp .employee-name h1{
+    position: relative;
+    font-size: 18px;
+    font-weight: 800;
+    font-family: "DM Sans", sans-serif;
+    margin-top: 2%;
+    top: -50%;
+    text-align: center;
+    white-space: nowrap;
+}
+.ourTeamComp .employee-name p{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    position: relative;
+    font-family: "DM Sans", sans-serif;
+    bottom: 12px;
+    left: 4%; 
+    text-align: center;
+}
+.ourTeamComp .abt-team{
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    max-width: 580px;
+    left: 400px;
+}
+.ourTeamComp .abt-team p{
+    font-family: "DM Sans", sans-serif;
+    font-size: 14px;
+    color: #717b85;
+    line-height: 1.5;
+
+}
+.ourTeamComp .abt-team .abt-firstPara{
+    text-align: start;
+    margin-top: 80px;    
+}

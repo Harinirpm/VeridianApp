@@ -15,7 +15,7 @@ export default function Home() {
           <img src={RightImg} alt='rightImage' className='side-image' />
         </div>
         <div className='main-image-container'>
-          <img src={CenterRect} alt='mainImage' className='main-image'/>
+          {/* <img src={CenterRect} alt='mainImage' className='main-image'/> */}
         </div>
           <div className='top-content'>
             <p>INVESTMENT MANAGEMENT</p>

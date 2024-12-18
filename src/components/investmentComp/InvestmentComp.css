@@ -1,0 +1,38 @@
+.investment-comp{
+    position: relative;
+    padding: 10px;
+    max-width: 400px;
+}
+.investment-comp .main-container{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    max-width: 400px;
+    background-color: rgb(255, 255, 255);
+}
+.investment-comp .main-container .topImg img{
+    height: 70%;
+    width: 80%;
+    padding: 38px;
+}
+.investment-comp .main-container .bottom-content{
+    position: relative;
+    font-size: 14px;
+    font-family: "DM Sans", sans-serif;
+    color: rgb(87, 87, 87);
+    padding: 38px;
+    width: 100%;
+    max-width: 310px;
+    margin-top: -70px;
+}
+.investment-comp .bottom-content h1{
+    font-family: "IBM Plex Serif";
+    font-size: 18px;
+    color: black;
+}
+.investment-comp .bottom-content p{
+    font-size: 13px;
+    line-height: 1.5;
+}
